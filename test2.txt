@@ -1,2 +1,2 @@
 this is my second file
-making changes to this file
+making changes
